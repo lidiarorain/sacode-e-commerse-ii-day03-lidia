@@ -1,0 +1,16 @@
+ * {
+ 	font-family: monospace;
+ }
+
+ body {
+ 	background-color: darkblue;
+ 	color: white;
+ }
+
+ a {
+ 	color: red;
+ 	text-transform: uppercase;
+ 	text-decoration: none;
+ 	background-color: black;
+ 	padding: 5px;
+ }

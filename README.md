@@ -4,7 +4,7 @@
 
 Merupakan perintah-perintah untuk mengelola file project git. 
 
-## Git Clone
+## Git Clone <url-repository>
 
 merupakan perintah untuk mendowload project dari remote repository / GitHub ke local repository / folder offline di komputer.
 
